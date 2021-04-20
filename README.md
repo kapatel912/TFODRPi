@@ -4,10 +4,10 @@
 
 ## Steps
 <br />
-<b>Step 1.</b> Walk through TFOD tutorial up to step 12 to generate TFLite files: https://github.com/nicknochnack/TFODCourse
+<b>Step 1.</b> Walk through TFOD tutorial up to step 12 to generate TFLite files: https://github.com/kapatel912/TFOD
 <br/><br/>
 <b>Step 2.</b> Clone the current repository onto your Raspberry Pi or copy it from a machine using RDP.
-<pre> git clone https://github.com/nicknochnack/TFODRPi</pre>
+<pre> git clone https://github.com/kapatel912/TFODRPi</pre>
 <br/><br/>
 <b>Step 3.</b>Install the required dependencies onto your Raspberry Pi
 <pre>
